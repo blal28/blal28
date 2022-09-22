@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blal28
+- 👋 Hi, I’m Bilal Naeem
 - 👀 I’m interested in learning how to code and then sharpen those skills 
 - 🌱 I’m currently learning Python, and MySQL
 - 💞️ I’ve master skills in Excel and Power BI
